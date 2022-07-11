@@ -11,4 +11,4 @@ while(prodotto < listaSpesa.length){
       
 }
     
-console.log(prodotto)      
+console.log(prodotto,listaSpesa )      
